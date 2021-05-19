@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - ScanKitFrameWork (1.0.2.300)
+  - zwj_scan_plugin (0.0.1):
+    - Flutter
+    - ScanKitFrameWork (~> 1.0.2.300)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - zwj_scan_plugin (from `.symlinks/plugins/zwj_scan_plugin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ScanKitFrameWork
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  zwj_scan_plugin:
+    :path: ".symlinks/plugins/zwj_scan_plugin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+  zwj_scan_plugin: 512d67113f5fd4523ef9a991fdfea47ddd8d653c
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.1
