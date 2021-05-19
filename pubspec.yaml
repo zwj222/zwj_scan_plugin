@@ -1,8 +1,8 @@
 name: zwj_scan_plugin
 description: A new Flutter scan plugin.
 version: 0.0.1
-author: Willian
-homepage:
+author: zwj222 <zengweijian946@gmail.com>
+homepage: https://github.com/zwj222/zwj_scan_plugin.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
